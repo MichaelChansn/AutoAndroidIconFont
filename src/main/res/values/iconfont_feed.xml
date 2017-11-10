@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- ########################此文件自动生成，禁止修改################################## -->
+<!-- ######                  此文件自动生成，禁止修改                            ###### -->
+<!-- ########################此文件自动生成，禁止修改################################## -->
+
+<!-- 
+    iconfont key对应的unicode，必须严格遵守命名规则：
+        icon的名字作为key，icon推荐使用 模块名_用途 当做命名  如：feed_tab_right_plus_icon -->
+<!--
+    1.生成的iconfont key是svg的文件名，生成的颜色key是svg文件名_color
+    2.生成的iconfont key需要复制到各个iconfont_topic_string.xml中去
+    3.生成的 color key 根据需要决定是否使用，按业务需求来（因为生成的iconfont默认是黑色，在显示的时候需要手动的设置要显示的颜色）
+-->
+<!-- feed topic 使用的ttf文件在assets中的路径，后续不可更改 -->
+<string name="feed_iconfont_path">iconfont/feed.ttf</string>
+
+
+<!-- 根据svg文件名生成的iconfont对应的key -->
+    <string name="feed_tab_right_plus_icon副本 183">\uf101</string>
+    <string name="feed_tab_right_plus_icon副本 184">\uf102</string>
+    <string name="feed_tab_right_plus_icon副本 185">\uf103</string>
+
+
+
+<!-- 根据svg文件内的颜色生成的iconfont对应的color（如果有的话） -->
+</resources>
